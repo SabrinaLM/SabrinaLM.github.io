@@ -17,6 +17,7 @@
 }
 
 .img-responsive {
+	background-image: url(IMG_3027.jpg);
 	max-width: 100%
 	height: auto;
 	display: block;
