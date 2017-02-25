@@ -5,6 +5,7 @@
     background-image: url('IMG_3575.jpg');
     background-repeat: no-repeat; 
     border: 1px solid black;
+    background-size: cover;
     
 }
 #page_2_background_image {
@@ -12,13 +13,8 @@
     height: 400px;
     background-image: url('IMG_3027.jpg');
     background-repeat: no-repeat; 
+    background-size: cover;
     border: 1px solid black;
     
 }
 
-.img-responsive {
-	background-image: url(IMG_3027.jpg);
-	max-width: 100%
-	height: auto;
-	display: block;
-}
