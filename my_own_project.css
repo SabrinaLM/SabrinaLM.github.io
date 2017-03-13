@@ -5,7 +5,7 @@
 
 #Arrival_Information_Paragraph { color: black; }
 
-#ul li { list-style-image: 
+#ul li { list-style-image: url('seatonparksign.jpg')
     background: #ff9999;
     padding: 20px;}
 
