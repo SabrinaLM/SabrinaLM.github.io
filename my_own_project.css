@@ -1,4 +1,10 @@
 
+#title {}
+
+#fb-root { font: arial;
+            color: blue; }
+
+
 #background_image {
     width: 100%;
     height: 500px;
