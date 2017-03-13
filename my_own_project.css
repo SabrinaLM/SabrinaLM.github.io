@@ -5,9 +5,9 @@
 
 #Arrival_Information_Paragraph { color: black; }
 
-#ul li { list-style: number;
-        background: #ff9999;
-         padding: 20px;}
+#ul li { list-style-image: 
+    background: #ff9999;
+    padding: 20px;}
 
 #background_image {
     width: 100%;
