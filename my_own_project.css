@@ -41,8 +41,9 @@
     border: 1px solid black;
     background-size: cover;
     background-position: center
+}
     
- {
+ #page_4_background_image {
     width: 100%;
     height: 500px;
     background-image: url('Aberdeen_Scotland3.jpg');
@@ -53,6 +54,7 @@
     background-size: cover;
     background-position: center
     
+    }
     
 
 
