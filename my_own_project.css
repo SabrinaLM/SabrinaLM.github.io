@@ -6,7 +6,7 @@
 #Arrival_Information_Paragraph { color: black; }
 
 .boxed { border width: 1px;
-        border fill: lightcyan; }
+        border: lightcyan; }
 
 #ul li { list-style-image: url('seatonparksign.jpg');
     list-style: cjk-ideographic;
