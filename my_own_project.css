@@ -5,8 +5,8 @@
 
 #Arrival_Information_Paragraph { color: black; }
 
-.boxed { border:none;
-        border color: lightcyan; }
+.boxed { border width: 1px;
+        border fill: lightcyan; }
 
 #ul li { list-style-image: url('seatonparksign.jpg');
     list-style: cjk-ideographic;
