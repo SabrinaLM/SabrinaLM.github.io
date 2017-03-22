@@ -10,9 +10,8 @@
 
 #ul li { list-style-image: url('seatonparksign.jpg');
     list-style: cjk-ideographic;
-    font: helvetica ;
     background: #ff9999;
-    padding: 20px;}
+    padding: 30px;}
 
 #what_to_do_in_seaton { padding: 10px
                         background: blue;
