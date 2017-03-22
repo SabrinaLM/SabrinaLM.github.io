@@ -10,7 +10,7 @@
 
 #ul li { list-style-image: url('seatonparksign.jpg');
     list-style: cjk-ideographic;
-    font: windsor bold ;
+    font: helvetica ;
     background: #ff9999;
     padding: 20px;}
 
