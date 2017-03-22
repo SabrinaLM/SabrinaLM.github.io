@@ -13,6 +13,10 @@
     background: #ff9999;
     padding: 20px;}
 
+#what_to_do_in_seaton { padding: 10px
+                        background: blue;
+                        display: block;}
+
 #background_image {
     width: 100%;
     height: 500px;
