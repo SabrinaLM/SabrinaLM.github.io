@@ -53,8 +53,8 @@
     background-position: center
 }
     
- #scotland_mountain_lake_sky_reflection_82809_3840x2400.jpg
- {  width: 100%;
+ img {
+    width: 100%;
     height: auto;
     background-repeat: no-repeat; 
     background-size: cover;
@@ -65,7 +65,7 @@
     
     }
     
-
+ 
 
 
 
